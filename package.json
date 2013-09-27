@@ -1,5 +1,5 @@
 {
-  "name": "bbToOfx",
+  "name": "bbtoofx",
   "version": "0.0.1",
   "description": "Conversor de extrato txt de cartão de crédito do BB em ofx",
   "scripts": {
@@ -13,7 +13,7 @@
     "prompt": "~0.2.11"
   },
   "bin": {
-    "rdiojs": "bin/rdiojs.js"
+    "bbtoofx": "bin/bbToOfx.js"
   },
   "main" : "./lib/index.js",
   "preferGlobal": "true"
